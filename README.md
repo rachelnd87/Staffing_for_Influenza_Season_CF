@@ -8,3 +8,6 @@ To help a medical staffing agency that provides temporary workers to clinics and
 Influenza deaths by geography (CDC) can be found [here](https://docs.google.com/spreadsheets/d/12HnfnWku-fQydCC2OJKwVDhMMR0_qQ64/edit?usp=sharing&ouid=116399071800927852345&rtpof=true&sd=true)
 
 Population data by geography ((US Census Bureau) can be found [here](https://docs.google.com/spreadsheets/d/14xfgle-t3wsxTzCD94pz_br_gY9vagNH/edit?usp=sharing&ouid=116399071800927852345&rtpof=true&sd=true)
+
+## Final Presentation
+Tableau presentation can be found [here](https://public.tableau.com/app/profile/rachel.dicken/viz/2_9StorytellingwithDataPresentations_16601671102890/2_9StorytellingwithDataPresentations)
